@@ -1,5 +1,5 @@
 {
-  "name": "angular-starter",
+  "name": "angular2_webpack",
   "version": "0.1.0",
   "scripts": {
     "tsc": "tsc --rootDir src --outDir dist",
